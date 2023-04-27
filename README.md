@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191CB4&size=42&center=true&vCenter=true&align=center&width=1500&lines=OII,+prazer!+Meu+nome+é+Matheus+Bastos;Tenho+19+anos+;Estou+aprendendo+HTML,+CSS+e+JS;Atualmente+curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaatheusBastos&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=191CB4&text_color=ffffff&bg_color=000005" alt="Status do github de Matheus Bastos" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaatheusBastos&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=191CB4&text_color=ffffff&bg_color=000005" alt="Status do github de Matheus Bastos" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaatheusBastos&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=000005" />
 </div>
 
