@@ -20,5 +20,6 @@
     <img alt='Javascript' src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'>
     <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
     <img alt='Mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
+    <img alt='Express' src='https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black'>
 </div>
 
