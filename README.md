@@ -20,5 +20,7 @@
     <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
     <img alt='Mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
     <img alt='Express' src='https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black'>
+    <img alt='Express' src='https://img.shields.io/badge/CSharp-0000FF?style=for-the-badge&logo=CSharp&logoColor=white'>
+    <img alt='Express' src='https://img.shields.io/badge/PostgreSQL-054f77?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
 
