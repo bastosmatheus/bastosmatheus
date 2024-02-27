@@ -1,5 +1,5 @@
 ## Apresentação 👦🏽
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&align=center&width=1500&lines=OII,+prazer!+Meu+nome+é+Matheus+Bastos.;Tenho+19+anos+;Atualmente+curso+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+estudando+CSharp,+com+foco+no+ASP.NET;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&align=center&width=1500&lines=OII,+prazer!+Meu+nome+é+Matheus+Bastos.;Tenho+20+anos+;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;E+atualmente+estou+em+busca+de+uma+vaga+backend+em+node.js;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center" height="10%">  
   <img width="100%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosmatheus&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=000005" alt="Linguagens usadas nos projetos do Matheus Bastos"/>
@@ -7,10 +7,10 @@
 
 ## Redes para contato 🕸
 <div display: 'inline-block'> 
-<a href="https://www.instagram.com/_mthsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:matheusbastosandrade@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-bastos-de-andrade-b380431a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+    <a href="mailto:matheusbastosandrade@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/matheus-bastos-de-andrade-b380431a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://www.instagram.com/_mthsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
 
 ## Tecnologias 🖥
 <div display: 'inline-block'>
@@ -18,9 +18,12 @@
     <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img alt='Javascript' src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'>
     <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-    <img alt='Mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
     <img alt='Express' src='https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black'>
-    <img alt='Express' src='https://img.shields.io/badge/CSharp-0000FF?style=for-the-badge&logo=CSharp&logoColor=white'>
-    <img alt='Express' src='https://img.shields.io/badge/PostgreSQL-054f77?style=for-the-badge&logo=postgresql&logoColor=white'>
+</div>
+
+## Banco de dados 💾
+<div display: 'inline-block'>
+    <img alt='Mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
+    <img alt='Postgre' src='https://img.shields.io/badge/PostgreSQL-054f77?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
 
