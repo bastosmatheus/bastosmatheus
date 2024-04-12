@@ -14,15 +14,19 @@
 
 ## Tecnologias 🖥
 <div display: 'inline-block'>
-    <img alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-    <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+    <img alt='Typescript' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
     <img alt='Express' src='https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black'>
+    <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
 </div>
 
 ## Banco de dados 💾
 <div display: 'inline-block'>
     <img alt='Mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
     <img alt='Postgre' src='https://img.shields.io/badge/PostgreSQL-054f77?style=for-the-badge&logo=postgresql&logoColor=white'>
+</div>
+
+## ORM's ⚙️
+<div display: 'inline-block'>
+    <img alt='Mongodb' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
 </div>
 
