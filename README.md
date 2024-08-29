@@ -1,13 +1,6 @@
 ## Hello World! 🌎
 Sou um Desenvolvedor Back-end especializado em Node.js e TypeScript. Atuo na criação e manutenção de APIs REST eficientes, escaláveis e seguras. Além disso, também possuo experiência no desenvolvimento front-end, utilizando HTML e CSS.
 
-## Redes para contato 🕸
-<div display: 'inline-block'> 
-    <a href="mailto:matheusbastosandrade@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/matheus-bastos-de-andrade-b380431a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-    <a href="https://www.instagram.com/_mthsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
 ## Tecnologias 🖥
 <div display: 'inline-block'>
     <img alt='Typescript' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
@@ -27,5 +20,10 @@ Sou um Desenvolvedor Back-end especializado em Node.js e TypeScript. Atuo na cri
     <img alt='Mongoose' src='https://img.shields.io/badge/Mongoose-FF1900?style=for-the-badge&logo=Mongoose&logoColor=white'>
 </div>
 
+## Redes para contato 🕸
+<div display: 'inline-block'> 
+    <a href="mailto:matheusbastosandrade@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/matheus-bastos-de-andrade-b380431a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 
