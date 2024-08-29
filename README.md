@@ -1,9 +1,5 @@
 ## Apresentação 👦🏽
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&align=center&width=1500&lines=OII,+prazer!+Meu+nome+é+Matheus+Bastos.;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;E+atualmente+estou+em+busca+de+uma+vaga+backend+em+node.js;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
-<div align="center" height="10%">  
-  <img width="100%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosmatheus&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=000005" alt="Linguagens usadas nos projetos do Matheus Bastos"/>
-</div>
+Sou um Desenvolvedor Back-end especializado em Node.js e TypeScript. Atuo na criação e manutenção de APIs REST eficientes, escaláveis e seguras. Além disso, também possuo experiência no desenvolvimento front-end, utilizando HTML e CSS.
 
 ## Redes para contato 🕸
 <div display: 'inline-block'> 
@@ -30,4 +26,6 @@
     <img alt='Prisma' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
     <img alt='Mongoose' src='https://img.shields.io/badge/Mongoose-FF1900?style=for-the-badge&logo=Mongoose&logoColor=white'>
 </div>
+
+
 
