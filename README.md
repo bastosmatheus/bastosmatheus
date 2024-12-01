@@ -1,5 +1,5 @@
 ## Hello World! 🌎
-Sou um Desenvolvedor Back-end especializado em Node.js e TypeScript. Atuo na criação e manutenção de APIs REST eficientes, escaláveis e seguras. Além disso, também possuo experiência no desenvolvimento front-end, utilizando HTML e CSS.
+Desenvolvedor Back-end com foco no ecosistema de Javascript. Tenho experiência na criação e manutenção de APIs REST com Node.js, Typescript/Javascript, Express.js e PostgreSQL. Além disso, também possuo experiência no desenvolvimento front-end, criando interfaces responsivas com HTML e CSS.
 
 ## Tecnologias 🖥
 <div display: 'inline-block'>
