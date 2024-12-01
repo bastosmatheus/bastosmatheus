@@ -1,29 +1,26 @@
 ## Hello World! 🌎
-Desenvolvedor Back-end com foco no ecosistema de Javascript. Tenho experiência na criação e manutenção de APIs REST com Node.js, Typescript/Javascript, Express.js e PostgreSQL. Além disso, também possuo experiência no desenvolvimento front-end, criando interfaces responsivas com HTML e CSS.
+Desenvolvedor Back-end com foco no ecossistema Javascript, possuo experiência no desenvolvimento e manutenção de APIs REST utilizando Node.js, Express.js, Typescript, PostgreSQL e Vitest para testes unitários. Além disso, também tenho habilidades no front-end, criando interfaces responsivas com HTML e CSS.
 
-## Tecnologias 🖥
+<i class="devicon-devicon-plain"></i>
+
+## Habilidades 🖥️
 <div display: 'inline-block'>
-    <img alt='Typescript' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-    <img alt='Express' src='https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black'>
-    <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## Banco de dados 💾
-<div display: 'inline-block'>
-    <img alt='Mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-    <img alt='Postgre' src='https://img.shields.io/badge/PostgreSQL-054f77?style=for-the-badge&logo=postgresql&logoColor=white'>
-</div>
 
-## ORM's/ODM's ⚙️
-<div display: 'inline-block'>
-    <img alt='Prisma' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
-    <img alt='Mongoose' src='https://img.shields.io/badge/Mongoose-FF1900?style=for-the-badge&logo=Mongoose&logoColor=white'>
-</div>
 
 ## Redes para contato 🕸
 <div display: 'inline-block'> 
     <a href="mailto:matheusbastosandrade@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/matheus-bastos-de-andrade-b380431a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/maatheusbastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
