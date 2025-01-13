@@ -1,5 +1,5 @@
 ## Hello World! 🌎
-Desenvolvedor Back-end com foco no ecossistema Javascript, possuo experiência no desenvolvimento e manutenção de APIs REST utilizando Node.js, Express.js, Typescript, PostgreSQL e Vitest para testes unitários. Além disso, também tenho habilidades no front-end, criando interfaces responsivas com HTML e CSS.
+Desenvolvedor Back-end com foco no ecossistema Javascript, possuo experiência no desenvolvimento e manutenção de APIs REST utilizando Node.js, Typescript, Express.js, Docker, PostgreSQL e Vitest para testes unitários. Além disso, também tenho habilidades no front-end, criando interfaces responsivas com HTML, CSS e Javascript.
 
 <i class="devicon-devicon-plain"></i>
 
